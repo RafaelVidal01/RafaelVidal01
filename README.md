@@ -1,5 +1,12 @@
-### Hi there 👋
+👋 Hi, I'm **Rafael**.
 
+😉 I'm currently studying to become a Full Stack Developer.
+
+🔭 I’m looking for new opportunities.
+
+⚡ Hungry for knowledge.
+
+💬 You can reach me through LinkedIn.
 <!--
 **RafaelVidal01/RafaelVidal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
